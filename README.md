@@ -28,7 +28,8 @@ I'm a passionate Software Engineer with a keen interest in AI, Machine Learning,
 
 - **Email**: trulyhawona@gmail.com
 
-Feel free to reach out if you want to collaborate on a project, or just to say hi!
-
 ## Social Media Links
  - **[LinkedIn](https://www.linkedin.com/in/rodgers-wisdom-842b04243/)**
+
+Feel free to reach out if you want to collaborate on a project, or just to say hi!
+
