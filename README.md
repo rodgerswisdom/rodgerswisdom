@@ -6,7 +6,7 @@ I'm a passionate Software Engineer with a keen interest in AI, Machine Learning,
 
 ## Notable Projects
 
-- **[No Code AI Tools](https://aitools.oduor.net/)**: Creator of the largest AI tools online directory in Africa, featuring over 4000 no code AI tools.
+- **[No Code AI Tools](https://aitools.myinsightiq.com)**: Creator of the largest AI tools online directory in Africa, featuring over 4000 no code AI tools.
 
 ## Skills
 
